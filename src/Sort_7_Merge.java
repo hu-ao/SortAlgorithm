@@ -93,6 +93,6 @@ public class Sort_7_Merge {
             System.out.print(intArrays[i]+" ");
         }
         System.out.println();
-        System.out.println("快速排序时间："+(endTime-startTime)+"毫秒");
+        System.out.println("归并排序时间："+(endTime-startTime)+"毫秒");
     }
 }
